@@ -1,0 +1,15 @@
+.autocomplete {
+  margin-bottom: 16px;
+}
+
+.map {
+  position: relative;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+
+#map {
+  position: relative;
+  height: 500px;
+}

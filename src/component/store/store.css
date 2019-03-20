@@ -1,0 +1,369 @@
+.shadow {
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.title {
+  width: 50%; 
+  word-wrap: break-word;
+  font-size: 100px;
+  line-height: 1.1;
+  -ms-transform: skew(0, -3deg);
+  transform: skew(0, -3deg);
+  line-height: 1.1;
+}
+
+.my-container {
+  width: 80%; 
+  margin: auto; 
+  background: rgba(192, 192, 192, .2)
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  list-style:  none;
+}
+
+
+div {
+  display: block;
+}
+
+.domtags--li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.domtags--div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.domtags--ul__373c0__3EAkl {
+  list-style: none;
+}
+
+.border-color--default {
+  border-color: #e6e6e6;
+}
+
+.border-color--default {
+  border-color: #e6e6e6;
+}
+
+.border--top {
+  border-top: 1px solid #e6e6e6;
+}
+
+.u-padding-b3 {
+  padding-bottom: 18px !important;
+}
+
+.u-padding-t3 {
+  padding-top: 18px !important;
+}
+
+.searchResult {
+  max-width: 690px;
+}
+
+.arrange {
+  display: table;
+  min-width: 100%;
+  table-layout: auto;
+}
+
+.arrange .arrange-unit {
+  box-sizing: border-box;
+  display: table-cell;
+  vertical-align: top;
+}
+
+.u-space-r3 {
+  margin-right: 18px !important;
+}
+
+.container__373c0__1sAOA {
+  border-radius: 4px;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+.container__373c0__38MbV {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+child__373c0__35DrB {
+  height: 100%;
+  position: absolute;
+}
+
+.photo-box-img__373c0__O0tbt {
+  border-radius: 4px;
+  vertical-align: middle;
+}
+
+.lemon--img__373c0__3bS5q {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.button__373c0__IWHDi.disabled__373c0__3UDIp {
+  /* opacity: .5; */
+}
+
+.button__373c0__IWHDi.disabled__373c0__3UDIp {
+  opacity: 0.5;
+}
+
+.left__373c0__3QF30 {
+  left: 0;
+  border-radius: 0 3px 3px 0;
+  padding-right: 2px;
+}
+
+.button__373c0__IWHDi {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding: 8px 0 6px;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  opacity: 1;
+  -webkit-transition: opacity 0.5s, background-color 0.5s;
+  transition: opacity 0.5s, background-color 0.5s;
+}
+
+.border-color--default__373c0__2oFDT {
+  border-color: #e6e6e6;
+}
+
+.arrange__373c0__UHqhV {
+  display: table;
+  min-width: 100%;
+  table-layout: auto;
+}
+
+.arrange__373c0__UHqhV .arrange-unit__373c0__1piwO {
+  box-sizing: border-box;
+  display: table-cell;
+  vertical-align: top;
+}
+
+.arrange__373c0__UHqhV .arrange-unit__373c0__1piwO {
+  box-sizing: border-box;
+  display: table-cell;
+  vertical-align: top;
+}
+
+.arrange-unit-fill__373c0__17z0h {
+  width: 100%;
+}
+
+.largerScrollablePhotos__373c0__3FEIJ .mainAttributes__373c0__1r0QA {
+  width: 62.5%;
+}
+
+.largerScrollablePhotos__373c0__3FEIJ .secondaryAttributes__373c0__7bA0w {
+  width: 37.5%;
+}
+
+.heading--h3__373c0__1n4Of.alternate__373c0__1uacp {
+  color: #333;
+}
+
+.heading--h3__373c0__1n4Of.alternate__373c0__1uacp {
+  color: #333;
+}
+
+.businessName__373c0__1fTgn h3 {
+  margin-bottom: 0;
+}
+
+heading--h2__373c0__1TQtb,
+.heading--h3__373c0__1n4Of,
+.heading--h4__373c0__3bU-Q {
+  padding-top: 0;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.heading--h3__373c0__1n4Of {
+  word-wrap: break-word !important;
+  word-break: break-word !important;
+  overflow-wrap: break-word !important;
+  font-weight: 700;
+  margin-bottom: 6px;
+  font-size: 16px;
+  line-height: 1.3125em;
+  color: #d32323;
+}
+
+.link-size--inherit__373c0__2JXk5 {
+  font-size: inherit;
+}
+
+.link-color--blue-dark__373c0__1mhJo {
+  color: #0073bb;
+}
+
+.link__373c0__29943 {
+  text-decoration: none;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.lemon--a__373c0__1_OnJ {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.tagSpacing__373c0__2zI72 {
+  margin-top: 6px;
+}
+
+.tag__373c0__16G8- {
+  display: -webkit-box;
+  display: flex;
+}
+
+.icon__373c0__3GFoI {
+  flex-shrink: 0;
+}
+
+.icon__373c0__ehCWV {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  overflow: hidden;
+  top: -0.1em;
+  fill: #666;
+}
+
+.lemon--span__373c0__1xR0D {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.u-space-b2 {
+  margin-bottom: 12px !important;
+}
+
+.u-space-t2 {
+  margin-top: 12px !important;
+}
+.u-space-t1 {
+  margin-top: 6px !important;
+}
+
+.u-space-r1 {
+  margin-right: 6px !important;
+}
+
+.display--inline__373c0__1DbOG {
+  display: inline;
+}
+
+.display--inline-block__373c0__2de_K {
+  display: inline-block;
+}
+
+.vertical-align-middle__373c0__2TQsQ > .arrange-unit__373c0__1piwO {
+  vertical-align: middle;
+}
+
+.i-stars--regular-4__373c0__3acau {
+  width: 102px;
+  height: 18px;
+  background-position: 0 -366px;
+}
+
+.i-stars__373c0__Y2F3O {
+  background: url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_design_web/9b34e39ccbeb/assets/img/stars/stars.png)
+    no-repeat;
+  background-size: 132px 560px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.overflow--hidden__373c0__8Jq2I {
+  overflow: hidden;
+}
+
+.offscreen__373c0__1KofL {
+  clip: rect(0 0 0 0);
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+}
+
+text__373c0__2P1WD.alternateStyling__373c0__2ithU {
+  font-size: 14px;
+}
+
+.text__373c0__2P1WD {
+  font-size: 13px;
+  line-height: 1.38462em;
+}
+
+.text-color--normal__373c0__K_MKN {
+  color: #333;
+}
+
+.text-align--left__373c0__2pnx_ {
+  text-align: left;
+}
+
+.text__373c0__2pB8f {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.28571em;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.domtags--img__373c0__3Qx9- {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}

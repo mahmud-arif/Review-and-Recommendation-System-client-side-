@@ -1,0 +1,18 @@
+.stores {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.shadow {
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.my-container {
+  width: 60%;
+  margin: auto;
+  background: rgba(192, 192, 192, .2)
+}
