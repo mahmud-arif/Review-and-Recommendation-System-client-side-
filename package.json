@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.0",
     "antd": "^3.13.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.0",
     "classnames": "^2.2.6",
     "google-maps-react": "^2.0.2",
